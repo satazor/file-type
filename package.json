@@ -25,6 +25,10 @@
 		"./core": {
 			"types": "./core.d.ts",
 			"import": "./core.js"
+		},
+		"./node": {
+			"types": "./node.d.ts",
+			"import": "./node.js"
 		}
 	},
 	"sideEffects": false,
