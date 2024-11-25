@@ -220,6 +220,7 @@
 		"apk"
 	],
 	"dependencies": {
+		"@tokenizer/deflate": "^0.1.3",
 		"get-stream": "^9.0.1",
 		"strtok3": "^9.0.1",
 		"token-types": "^6.0.0",
